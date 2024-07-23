@@ -1,5 +1,6 @@
 *****JAWABAN NO 2*********
-Jarak awal: A = 0, lainnya = ∞
+
+Dengan Jarak awal: A = 0, lainnya = Minus
 
 Tetangga A:
 
